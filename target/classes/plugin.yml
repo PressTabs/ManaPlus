@@ -1,9 +1,0 @@
-main: tech.presstabs.manaplus.ManaPlus
-version: DEV
-author: PressTabs
-api-version: 1.8.8
-name: ManaPlus
-commands:
-  servegui:
-    description: Serves the Player their ManaGUI
-    usage: /servegui
